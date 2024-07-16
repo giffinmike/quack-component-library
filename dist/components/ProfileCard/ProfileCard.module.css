@@ -1,0 +1,12 @@
+.profile-card {
+    text-align: center;
+    padding: 20px;
+}
+
+.profile-card h3 {
+    margin-top: 10px;
+}
+
+.profile-card .badge {
+    margin-bottom: 20px;
+}
